@@ -1,4 +1,4 @@
-# appliction_3
+# application_3
 
 A new Flutter project.
 
